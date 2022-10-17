@@ -1,0 +1,3 @@
+This was turned into mono with Audacity because the piano has some clicking on the right channel.
+
+Utilizes this VST: https://vis.versilstudios.com/upright-1.html
